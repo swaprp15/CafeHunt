@@ -1,4 +1,4 @@
 CafeHunt
 ========
 
-Web2Py prohect
+Web2Py project
